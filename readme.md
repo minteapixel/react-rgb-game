@@ -1,12 +1,12 @@
 # RGB Color Game (with React!)
-A single page webapp RGB game built with React and Javascript. **Responsive** layout works across all devices.
+A single page webapp RGB game built with React and Javascript.
 
 Player has to find the right square with a background color that matches the RGB value printed on the screen. All squares' background colors are dynamically generated. Game includes multiple difficulty modes.
 
 **🔥 Infernal mode** features squares with very similar colors.
 
 ## Live Demo
-Play the game [here](https://github.com/).
+Play the game [here](https://rgbgame-react-mtp.herokuapp.com/).
 
 ## Built With
 - CSS/HTML (Flexbox & CSS Grid)
