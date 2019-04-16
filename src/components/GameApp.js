@@ -14,7 +14,6 @@ export default class GameApp extends React.Component {
 
   componentDidMount() {
     this.reset();
-    console.log('infernalColor is', infernalColor());
   }
 
   reset = () => {
